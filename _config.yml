@@ -1,0 +1,28 @@
+name: Stephhinds
+favicon: null
+layout_spectrum: 0.42099706968292594
+typography_spectrum: 0.7821391590405256
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.07040598359890282
+  lightness: 0.7113380846567452
+  saturation: 0.22999163158237934
+  rhythmicContrast: 0.6314461841247976
+purpose: []
